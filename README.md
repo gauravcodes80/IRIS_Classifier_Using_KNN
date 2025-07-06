@@ -1,5 +1,4 @@
 # IRIS_Classifier_Using_KNN
-# IRIS_Classifier_Using_KNN
 <b>
 Situation:<br>
 You needed to classify flower species based on physical measurements using a simple machine learning algorithm. The Iris dataset, a well-known dataset in the ML community, was chosen for this classification task.<br>
